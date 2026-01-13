@@ -16,7 +16,7 @@
 
 <br>
 
-- 💻 **Java Backend Developer** 
+- 💻 **Java Backend** 
 - 🔧 Focused on building solid **backend logic** and well-structured applications
 - 🗄️ Working with **databases** and **backend-oriented architectures**
 - 📚 Constantly improving my skills in **Java backend development**
