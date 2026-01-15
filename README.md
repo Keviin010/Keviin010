@@ -20,7 +20,7 @@
 - 🔧 Focused on building solid **backend logic** and well-structured applications
 - 🗄️ Working with **databases** and **backend-oriented architectures**
 - 📚 Constantly improving my skills in **Java backend development**
-- 🌱 **Junior developer** committed to writing **clean, readable, and maintainable code**
+- 🌱  committed to writing **clean, readable, and maintainable code**
 - 🎯 Open to **internships** and **entry-level backend opportunities**
 - 📫 Reach me at: **kevd.r19@gmail.com**
 
