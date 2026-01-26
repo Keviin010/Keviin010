@@ -54,7 +54,6 @@ I'm passionate about learning and using different technologies to create innovat
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -71,13 +70,11 @@ I'm passionate about learning and using different technologies to create innovat
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### **IDEs**
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 </div>
 
@@ -93,10 +90,10 @@ I'm passionate about learning and using different technologies to create innovat
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🏗️ Java CRUD Repository</h3>
+        <h3 align="center">Java CRUD Repository</h3>
         <div align="center">
           <a href="https://github.com/Keviin010/java-crud" target="_blank">
-            <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350" alt="CRUD Project">
+            <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="CRUD Project">
           </a>
           <br>
           <br>
@@ -119,10 +116,10 @@ I'm passionate about learning and using different technologies to create innovat
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">💰 Java Billing App</h3>
+        <h3 align="center">Java Billing App</h3>
         <div align="center">
           <a href="https://github.com/Keviin010/java-app-facturas" target="_blank">
-            <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="350" alt="Billing Project">
+            <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="350" alt="Billing Project">
           </a>
           <br>
           <br>
@@ -147,10 +144,10 @@ I'm passionate about learning and using different technologies to create innovat
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">📦 HashMap Collections</h3>
+        <h3 align="center">HashMap Collections</h3>
         <div align="center">
           <a href="https://github.com/Keviin010/java-collections-hashmap" target="_blank">
-            <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350" alt="Collections Project">
+            <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350" alt="Collections Project">
           </a>
           <br>
           <br>
@@ -173,7 +170,7 @@ I'm passionate about learning and using different technologies to create innovat
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🚀 More Projects Coming Soon</h3>
+        <h3 align="center">More Projects Coming Soon</h3>
         <div align="center">
           <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Coming Soon">
           <br>
