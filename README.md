@@ -16,7 +16,7 @@ Backend developer focused on building scalable server-side applications with Jav
 Experienced in implementing layered architectures with proper separation of concerns, writing comprehensive test suites, and following SOLID principles for maintainable codebases.
 
 - Currently deepening expertise in Spring Boot microservices and backend architecture patterns
-- Open to junior backend opportunities and challenging engineering projects.
+- Open to backend opportunities and challenging projects.
 
 - Contact: **kevd.r19@gmail.com**
 
