@@ -17,7 +17,6 @@ Experienced in implementing layered architectures with proper separation of conc
 
 - Currently deepening expertise in Spring Boot microservices and backend architecture patterns
 - Open to backend opportunities and challenging projects.
-
 - Contact: **kevd.r19@gmail.com**
 
 ## Tech Stack & Tools
@@ -28,6 +27,11 @@ Experienced in implementing layered architectures with proper separation of conc
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Testing
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
@@ -43,8 +47,6 @@ Experienced in implementing layered architectures with proper separation of conc
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-
 </div>
 
 ## Development Approach
@@ -58,7 +60,7 @@ Experienced in implementing layered architectures with proper separation of conc
 
 <div align="center">
 
-**Spring Boot Microservices** • **Advanced Spring Data JPA** • **Backend Architecture Patterns**
+**Spring Boot Microservices** • **Advanced Spring Data JPA** • **Backend Architecture Patterns** • **React + Vite**
 
 </div>
 
@@ -75,7 +77,5 @@ Experienced in implementing layered architectures with proper separation of conc
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
 </div>
