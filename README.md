@@ -4,18 +4,19 @@
 ### Java Backend Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Java+Developer;Building+Scalable+Systems;Clean+Code+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Java+Developer;Spring+Boot+%26+Microservices;Scalable+%26+Distributed+Systems" />
 </p>
 
 </div>
 
 ## About Me
 
-Backend developer focused on building scalable server-side applications with Java and Spring Boot. Specialized in RESTful API design, relational databases, and clean code practices.
+Backend developer focused on building scalable server-side applications with Java, Spring Boot, and Spring Cloud architectures. Specialized in RESTful API design, relational databases, distributed systems patterns, and reactive programming.
 
-Experienced in implementing layered architectures with proper separation of concerns, writing comprehensive test suites, and following SOLID principles for maintainable codebases.
+Experienced in transitioning applications from layered monolithic designs to microservices ecosystems, implementing robust security filters, writing comprehensive test suites, and following SOLID principles for maintainable codebases.
 
-- Currently deepening expertise in Spring Boot microservices and backend architecture patterns
+- Completed an intensive 163+ hour Java Masterclass covering Spring Cloud, Reactive Streams, Security, and JWT.
+- Currently deepening expertise in containerization and orchestration for backend deployment.
 - Open to backend opportunities and challenging projects.
 - Contact: **kevd.r19@gmail.com**
 
@@ -23,9 +24,11 @@ Experienced in implementing layered architectures with proper separation of conc
 
 <div align="center">
 
-### Backend Development
+### Backend & Cloud Infrastructure
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Reactive Programming](https://img.shields.io/badge/Project_Reactor_/_WebFlux-333333?style=for-the-badge&logo=reactive-x&logoColor=F80000)
 
 ### Testing
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
@@ -45,16 +48,17 @@ Experienced in implementing layered architectures with proper separation of conc
 
 ## Development Approach
 
-- **Clean Architecture**: Layered design with clear separation of concerns using repository pattern for data access
-- **Test-Driven Development**: Comprehensive test coverage with JUnit and Mockito for unit and integration testing
-- **SOLID Principles**: Writing maintainable and extensible code following design patterns and best practices
-- **API Design**: RESTful services with proper HTTP methods, status codes, and documentation
+- **Distributed Systems Architecture**: Designing microservices with Netflix Eureka Service Discovery, Spring Cloud Gateway, and inter-service communication via OpenFeign and WebClient.
+- **Reactive Streams**: Implementing asynchronous, non-blocking logic with Project Reactor components like Flux and Mono, incorporating backpressure management.
+- **Enterprise Security**: Implementing stateless, token-based authentication and authorization mechanisms with Spring Security and JSON Web Tokens (JWT).
+- **Test-Driven Development**: Comprehensive test coverage with JUnit 5 and Mockito for unit and integration testing.
+- **SOLID Principles**: Writing maintainable and extensible code following design patterns and best practices.
 
 ## Currently Learning
 
 <div align="center">
 
-**Spring Boot Microservices** • **Advanced Spring Data JPA** • **Backend Architecture Patterns**
+**Docker Containers** • **Kubernetes Orchestration** • **Cloud Deployment (AWS ECS/EKS)** • **AI Agents Integration**
 
 </div>
 
