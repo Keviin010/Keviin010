@@ -1,44 +1,45 @@
 <div align="center">
 
 # Kevin Royo
-### Java Backend Developer
+### Practicante de Desarrollo de Software · Backend (Java, Spring Boot)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Java+Developer;Spring+Boot+%26+Microservices;Scalable+%26+Distributed+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Practicante+de+Desarrollo+de+Software;Backend+con+Java+y+Spring+Boot;APIs+REST+%26+Seguridad+con+JWT" />
 </p>
 
 </div>
 
-## About Me
+## Sobre mí
 
-Backend developer focused on building scalable server-side applications with Java, Spring Boot, and Spring Cloud architectures. Specialized in RESTful API design, relational databases, distributed systems patterns, and reactive programming.
+Estudiante de Tecnología en Desarrollo de Software (Universidad Católica Luis Amigó) e Ingeniería de Software y Datos (IU Digital de Antioquia), enfocado en backend con Java y Spring Boot. Construyo aplicaciones completas: API REST, bases de datos, seguridad con JWT, alertas por correo y pruebas unitarias. También he trabajado con Angular y React (nivel básico).
 
-Experienced in transitioning applications from layered monolithic designs to microservices ecosystems, implementing robust security filters, writing comprehensive test suites, and following SOLID principles for maintainable codebases.
+Busco una práctica donde aprender de ingenieros con experiencia y de las tecnologías del equipo.
 
-- Completed an intensive 163+ hour Java Masterclass covering Spring Cloud, Reactive Streams, Security, and JWT.
-- Currently deepening expertise in containerization and orchestration for backend deployment.
-- Open to backend opportunities and challenging projects.
-- Contact: **kevd.r19@gmail.com**
+- Máster Completo Java de Cero a Experto (+163 horas, Udemy), junio 2026.
+- Cursos de SQL y MySQL, y de Git y GitHub (Platzi), enero 2026.
+- Disponibilidad para prácticas: inicios de 2027, sujeto a aprobación de la universidad (18 meses preferido, o 12 meses o contrato de aprendizaje SENA).
+- Portafolio: [keviin010.github.io](https://keviin010.github.io)
+- Contacto: **kevd.r19@gmail.com**
 
-## Tech Stack & Tools
+## Stack y herramientas
 
 <div align="center">
 
-### Backend & Cloud Infrastructure
+### Backend
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Reactive Programming](https://img.shields.io/badge/Project_Reactor_/_WebFlux-333333?style=for-the-badge&logo=reactive-x&logoColor=F80000)
 
-### Testing
+### Pruebas
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge)
 
-### Databases
+### Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & DevOps
+### Herramientas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
@@ -46,23 +47,35 @@ Experienced in transitioning applications from layered monolithic designs to mic
 
 </div>
 
-## Development Approach
+También uso: Spring Security y JWT, Spring Data, MongoDB, Docker, SQL, Angular y React (nivel básico) y Python (básico).
 
-- **Distributed Systems Architecture**: Designing microservices with Netflix Eureka Service Discovery, Spring Cloud Gateway, and inter-service communication via OpenFeign and WebClient.
-- **Reactive Streams**: Implementing asynchronous, non-blocking logic with Project Reactor components like Flux and Mono, incorporating backpressure management.
-- **Enterprise Security**: Implementing stateless, token-based authentication and authorization mechanisms with Spring Security and JSON Web Tokens (JWT).
-- **Test-Driven Development**: Comprehensive test coverage with JUnit 5 and Mockito for unit and integration testing.
-- **SOLID Principles**: Writing maintainable and extensible code following design patterns and best practices.
+## Lo que he construido
 
-## Currently Learning
+- **API REST con Spring Boot**: servicios con Spring Data JPA, MySQL o PostgreSQL, validaciones y manejo global de excepciones.
+- **Seguridad**: autenticación stateless con Spring Security y JWT, con roles CLIENTE y ADMIN.
+- **Pruebas**: pruebas unitarias con JUnit 5 y Mockito, simulando dependencias para aislar la lógica de negocio.
+- **Tiempo real**: mensajería con WebSocket (STOMP) y PostgreSQL, probada con varias sesiones simultáneas.
+- **Buenas prácticas**: POO y clean code en proyectos de práctica como [java-crud](https://github.com/Keviin010/java-crud).
+- **Visto en el Máster (en proceso de reforzar)**: microservicios con Spring Cloud (Eureka y balanceo de carga, ver [spring-cloud-microservices-ecosystem](https://github.com/Keviin010/spring-cloud-microservices-ecosystem)) y programación reactiva con Project Reactor / WebFlux.
+
+## Proyectos
+
+- **Ahorrix** (Proyecto Integrador, 2026): monitor de precios con alertas por correo. Java 21, Spring Boot 3, MongoDB, Spring Security + JWT, Jsoup, Angular, Docker, JUnit 5 y Mockito. Vigila precios de Éxito, Alkosto y Mattelsa leyendo datos estructurados (JSON-LD), los revisa cada noche y avisa por correo cuando el precio baja o llega al objetivo. Incluye panel de administración. [Demo (versión recortada)](https://ahorrix-app.netlify.app)
+- **Aplicación de chat en tiempo real** (2025): Java / Spring Boot, Angular, WebSocket (STOMP) y PostgreSQL. Backend y frontend en repositorios separados: [backend-chat](https://github.com/Keviin010/backend-chat) y [frontend-chat](https://github.com/Keviin010/frontend-chat). [Demo](https://frontend-chat-3rd4.vercel.app/)
+- **Sistema de gestión de exámenes** (2024): servicio REST con Spring Boot y pruebas unitarias con JUnit 5 y Mockito.
+- **Sistema de gestión de productos** (2026): API REST en Spring Boot con PostgreSQL y frontend en React + Vite con CRUD completo. [products-backend](https://github.com/Keviin010/products-backend) · [react-products](https://github.com/Keviin010/react-products) · [Demo](https://react-products-aqw2.vercel.app/)
+
+## Reforzando y aprendiendo
 
 <div align="center">
 
-**Docker Containers** • **Kubernetes Orchestration** • **Cloud Deployment (AWS ECS/EKS)** • **AI Agents Integration**
+**Reforzando:** Java (POO, colecciones, streams) y Spring Boot con pruebas
+
+**Próximos pasos:** Docker a más profundidad • Kubernetes • AWS (fundamentos) • Spring AI
 
 </div>
 
-## Let's Connect
+## Contacto
 
 <div align="center">
 
