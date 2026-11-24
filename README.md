@@ -4,7 +4,7 @@
 ### Desarrollador de Software
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Desarrollo+de+software;Java+y+Spring+Boot;Abierto+a+nuevas+oportunidades" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Desarrollo+de+software;Java+y+Spring+Boot;APIs+REST+con+JWT;Angular+y+React;PostgreSQL%2C+MySQL+y+MongoDB;Pruebas+con+JUnit+y+Mockito;Abierto+a+nuevas+oportunidades" />
 </p>
 
 </div>
@@ -13,9 +13,9 @@
 
 Estudio Tecnología en Desarrollo de Software e Ingeniería de Software y Datos. Me gusta construir aplicaciones completas, desde la base de datos hasta la pantalla, y aprender la herramienta que haga falta para que funcionen.
 
-Mi base es Java y Spring Boot: he construido APIs REST con autenticación JWT y roles, pruebas con JUnit y Mockito, y bases de datos PostgreSQL, MySQL y MongoDB. También hago interfaces con Angular y React. Mi proyecto más completo es **Ahorrix**, una aplicación que vigila precios en tiendas colombianas y avisa por correo cuando bajan.
+Mi base es Java y Spring Boot: he construido APIs REST con autenticación JWT y roles, pruebas con JUnit y Mockito, y bases de datos PostgreSQL, MySQL y MongoDB. También hago interfaces con Angular y React. Mi proyecto más completo es **[Ahorrix](https://ahorrix-app.netlify.app)**, una aplicación que vigila precios en tiendas colombianas y avisa por correo cuando bajan.
 
-Estoy abierto a cualquier oportunidad, no solo en Java ni en backend. Quiero aprender las tecnologías que use el equipo y aportar con lo que ya sé hacer.
+Quiero aprender las tecnologías que use el equipo y aportar con lo que ya sé hacer.
 
 - Proyectos y CV: [keviin010.github.io](https://keviin010.github.io/)
 
@@ -29,7 +29,6 @@ Estoy abierto a cualquier oportunidad, no solo en Java ni en backend. Quiero apr
 ![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket_/_STOMP-333333?style=for-the-badge)
-![Jsoup](https://img.shields.io/badge/Jsoup-4B8BBE?style=for-the-badge)
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
