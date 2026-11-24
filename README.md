@@ -1,44 +1,45 @@
 <div align="center">
 
 # Kevin Royo
-### Java Backend Developer
+### Desarrollador Backend Java
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Java+Developer;Spring+Boot+%26+Microservices;Scalable+%26+Distributed+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Java+y+Spring+Boot;APIs+REST+y+bases+de+datos" />
 </p>
 
 </div>
 
-## About Me
+## Sobre mí
 
-Backend developer focused on building scalable server-side applications with Java, Spring Boot, and Spring Cloud architectures. Specialized in RESTful API design, relational databases, distributed systems patterns, and reactive programming.
+Mi base es Java y Spring Boot. He construido APIs REST con autenticación JWT y roles, pruebas con JUnit y Mockito, y bases de datos PostgreSQL, MySQL y MongoDB. También hago interfaces sencillas con Angular y React.
 
-Experienced in transitioning applications from layered monolithic designs to microservices ecosystems, implementing robust security filters, writing comprehensive test suites, and following SOLID principles for maintainable codebases.
+- Portafolio: [keviin010.github.io](https://keviin010.github.io/)
+- Correo: **kevd.r19@gmail.com**
+- Abierto a oportunidades como desarrollador backend.
 
-- Completed an intensive 163+ hour Java Masterclass covering Spring Cloud, Reactive Streams, Security, and JWT.
-- Currently deepening expertise in containerization and orchestration for backend deployment.
-- Open to backend opportunities and challenging projects.
-- Contact: **kevd.r19@gmail.com**
-
-## Tech Stack & Tools
+## Tecnologías y herramientas
 
 <div align="center">
 
-### Backend & Cloud Infrastructure
+### Backend
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Reactive Programming](https://img.shields.io/badge/Project_Reactor_/_WebFlux-333333?style=for-the-badge&logo=reactive-x&logoColor=F80000)
+![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
 
-### Testing
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Pruebas
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge)
 
-### Databases
+### Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & DevOps
+### Herramientas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
@@ -46,33 +47,24 @@ Experienced in transitioning applications from layered monolithic designs to mic
 
 </div>
 
-## Development Approach
+**Nivel básico:** Docker y Python.
 
-- **Distributed Systems Architecture**: Designing microservices with Netflix Eureka Service Discovery, Spring Cloud Gateway, and inter-service communication via OpenFeign and WebClient.
-- **Reactive Streams**: Implementing asynchronous, non-blocking logic with Project Reactor components like Flux and Mono, incorporating backpressure management.
-- **Enterprise Security**: Implementing stateless, token-based authentication and authorization mechanisms with Spring Security and JSON Web Tokens (JWT).
-- **Test-Driven Development**: Comprehensive test coverage with JUnit 5 and Mockito for unit and integration testing.
-- **SOLID Principles**: Writing maintainable and extensible code following design patterns and best practices.
+## Cómo trabajo
 
-## Currently Learning
+- **APIs REST en capas:** controladores, servicios y repositorios separados, con Spring Boot.
+- **Seguridad:** autenticación y autorización sin estado con Spring Security y JWT.
+- **Pruebas:** pruebas unitarias con JUnit 5 y Mockito.
+- **Tareas programadas:** revisión nocturna automática con `@Scheduled` y alertas por correo.
+- **Tiempo real:** WebSocket con STOMP para chats.
+- **Despliegue:** Render, Vercel, Netlify, Neon y MongoDB Atlas.
 
-<div align="center">
-
-**Docker Containers** • **Kubernetes Orchestration** • **Cloud Deployment (AWS ECS/EKS)** • **AI Agents Integration**
-
-</div>
-
-## Let's Connect
+## Conectemos
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-royo-09a427216/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keviin010)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevd.r19@gmail.com)
+[Portafolio](https://keviin010.github.io/) • [LinkedIn](https://www.linkedin.com/in/kevin-royo-09a427216/) • [GitHub](https://github.com/Keviin010) • [Correo](mailto:kevd.r19@gmail.com)
 
 </div>
-
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
