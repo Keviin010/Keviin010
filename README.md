@@ -18,7 +18,6 @@ Mi base es Java y Spring Boot: he construido APIs REST con autenticación JWT y 
 Estoy abierto a cualquier oportunidad, no solo en Java ni en backend. Quiero aprender las tecnologías que use el equipo y aportar con lo que ya sé hacer.
 
 - Proyectos y CV: [keviin010.github.io](https://keviin010.github.io/)
-- Ubicación: Medellín, Colombia
 
 ## Tecnologías y herramientas
 
